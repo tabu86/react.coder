@@ -1,0 +1,6 @@
+.navbarcontainer {
+    background-color: rgb(121, 222, 14);
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
